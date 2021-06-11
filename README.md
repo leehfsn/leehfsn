@@ -1,0 +1,2 @@
+- 👋 Oi, me chamo Letícia Sant'anna
+- Estudante de Ciência da Computação
