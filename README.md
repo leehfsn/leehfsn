@@ -1,2 +1,2 @@
-- 👋 Oi, me chamo Letícia Sant'anna
-- Estudante de Ciência da Computação
+- 👋 Hello guys, I'm Letícia Sant'anna!
+- I'm studant of Computer Science
