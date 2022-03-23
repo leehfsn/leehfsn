@@ -1,6 +1,6 @@
-## Hello everyone, Letícia Sant'anna
+## Hello everyone, I'm Letícia Sant'anna
 - I'm student of Computer Science <br>
-- I work as FullStack intern in Escola Conquer
+- I work as FullStack Developer intern in Escola Conquer
 
 ## My Social Medias 
 <div style="display: inline_block"> 
@@ -10,7 +10,7 @@
 </div>
 
 ## I'm working and learning | Front-End Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Leeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leeh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leeh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,10 +20,9 @@
 </div><br>
 
 ## I'm studying | Back-End Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Leeh-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Leeh-node" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-          
+  <img align="center" alt="Leeh-node" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />       
 </div>
 <br>
 
