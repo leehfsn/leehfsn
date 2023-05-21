@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Letícia Sant'anna
 - I'm student of Computer Science <br>
-- I work as FullStack Developer intern in Escola Conquer
+- I work as FullStack Developer JR in Escola Conquer
 
 ## My Social Medias 
 <div style="display: inline_block"> 
